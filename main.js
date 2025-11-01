@@ -1,5 +1,5 @@
-const navlist=document.getElementById('navlist');
-const hamburger=document.getElementById('hamburger');
+const navlist = document.getElementById('navlist');
+const hamburger = document.getElementById('hamburger');
 
 
 // Click Event
